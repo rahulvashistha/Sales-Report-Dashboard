@@ -1,0 +1,25 @@
+﻿{    "name": "CustomSalesDashboard",
+    "dataColors": [
+      "#118DFF",  
+      "#12239E",  
+      "#E66C37", 
+      "#228B22", 
+      "#D10000"   
+    ],
+    "foreground": "#131312",
+    "background": "#FFFFFF",
+    "foregroundNeutralSecondary": "#6C6966",
+    "backgroundLight": "#E5E0DA",
+    "foregroundNeutralTertiary": "#ABA7A2",
+    "backgroundNeutral": "#C6C2BE",
+    "tableAccent": "#118DFF",
+  
+    "good": "#228B22", 
+    "bad": "#D10000",   
+    "neutral": "#E66C37", 
+  
+    "maximum": "#118DFF",
+    "center": "#E66C37",
+    "minimum": "#12239E"
+  }
+  
