@@ -21,7 +21,6 @@ To build a visually consistent, interactive Power BI dashboard that enables:
 | `Sales.pbix` | Main Power BI report file |
 | `Theme.json` | Custom JSON theme with consistent metric-based color logic |
 | `Sales.pdf` | Exported view of the report (for quick reference) |
-| `/assets/` | Screenshots and visuals from the report |
 | `README.md` | This file |
 | `Report_Explanation.pdf` | Detailed write-up about approach, logic, and features used |
 
