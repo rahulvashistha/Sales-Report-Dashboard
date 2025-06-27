@@ -107,8 +107,7 @@ Cleaned and modeled internally for Power BI.
 - **Name**: Rahul  
 - **Role**: Data Analyst | Power BI Developer  
 - **Location**: Rajasthan, India  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 🛠 [Portfolio Website](https://yourportfolio.com) *(if any)*
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/rahul-vashistha-08nov/))  
 
 ---
 
