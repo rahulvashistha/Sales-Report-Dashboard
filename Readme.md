@@ -105,11 +105,10 @@ Cleaned and modeled internally for Power BI.
 
 ## 📬 Connect With Me
 
-- **Name**: Rahul  
+- **Name**: Rahul Vashistha
 - **Role**: Data Analyst | Power BI Developer  
 - **Location**: Rajasthan, India  
 - 💼 [LinkedIn](https://www.linkedin.com/in/rahul-vashistha-08nov/) 
-- 🛠 [Portfolio Website](https://yourportfolio.com) *(if any)*
 
 ---
 
