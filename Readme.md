@@ -96,9 +96,9 @@ Cleaned and modeled internally for Power BI.
 
 ## 🔗 Preview & Demo
 
-📁 **Download Report**: [Sales.pbix](./Sales_Performance_&_Customer_Analytics_Dashboard.pbix)  
-📸 **Screenshots**: See `/assets/` folder  
-📄 **Explanation Doc**: [Report_Explanation.pdf](./Report_Explanation.pdf)
+📁 **Download Report**: [Sales Performance & Customer Analytics Dashboard.pbix](./Sales%20Performance%20%26%20Customer%20Analytics%20Dashboard.pbix)  
+📸 **Screenshots**: [Sales Performance & Customer Analytics Dashboard.pdf](./Sales%20Performance%20%26%20Customer%20Analytics%20Dashboard.pdf)  
+📄 **Explanation Doc**: [Report Explanation.pdf](./Report%20Explanation.pdf)
 🔗 [LinkedIn Post (Coming Soon)](https://linkedin.com/in/your-profile)
 
 ---
