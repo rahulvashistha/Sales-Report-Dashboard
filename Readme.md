@@ -96,19 +96,20 @@ Cleaned and modeled internally for Power BI.
 
 ## 🔗 Preview & Demo
 
-📁 **Download Report**: [Sales Performance & Customer Analytics Dashboard.pbix](./Sales%20Performance%20%26%20Customer%20Analytics%20Dashboard.pbix)  
-📸 **Screenshots**: [Sales Performance & Customer Analytics Dashboard.pdf](./Sales%20Performance%20%26%20Customer%20Analytics%20Dashboard.pdf)  
-📄 **Explanation Doc**: [Report Explanation.pdf](./Report%20Explanation.pdf)  
-🔗 [LinkedIn Post (Coming Soon)](https://linkedin.com/in/your-profile)
+📁 **Download Report**: [Sales.pbix](./Sales.pbix)  
+📸 **Screenshots**: See `/assets/` folder  
+📄 **Explanation Doc**: [Report_Explanation.pdf](./Report_Explanation.pdf) *(optional)*  
+🔗 [LinkedIn Post (Optional)](https://linkedin.com/in/your-profile)
 
 ---
 
 ## 📬 Connect With Me
 
-- **Name**: Rahul Vashistha
+- **Name**: Rahul  
 - **Role**: Data Analyst | Power BI Developer  
 - **Location**: Rajasthan, India  
 - 💼 [LinkedIn](https://www.linkedin.com/in/rahul-vashistha-08nov/) 
-- 🛠 [Portfolio Website] (Coming Soon) (https://yourportfolio.com)
+- 🛠 [Portfolio Website](https://yourportfolio.com) *(if any)*
+
 ---
 
